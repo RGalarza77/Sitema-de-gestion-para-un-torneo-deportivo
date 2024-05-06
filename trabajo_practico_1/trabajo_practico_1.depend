@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1699497306 source:d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<ctime>
+	<iomanip>
+	"funcionesGlobales.h"
+	"ClaseFecha.h"
+	"ClaseEquipo.h"
+	"ClaseTipodeDeporte.h"
+	"ClaseDeporte.h"
+	"ClaseJugador.h"
+	"menuEquipo.h"
+	"menuTipodeDeporte.h"
+	"menuJugadores.h"
+	"menuDeporte.h"
+	"menuConfiguracion.h"
+	"reportes.h"
+	"menuPrincipal.h"
+
+1698990686 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\clasefecha.h
+
+1696320967 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\menujugadores.h
+
+1699413644 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\funcionesglobales.h
+
+1698990676 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\clasejugador.h
+
+1699532852 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\clasedeporte.h
+
+1696321158 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\menudeporte.h
+
+1696287619 source:c:\users\rgalarza\documents\github\laboratorio-ii-recursado\trabajo_practico_1\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"funcionesGlobales.h"
+	"ClaseFecha.h"
+	"ClaseJugador.h"
+	"menuJugadores.h"
+	"ClaseDeporte.h"
+	"menuDeporte.h"
+
+1696287876 c:\users\rgalarza\documents\github\laboratorio-ii-recursado\trabajo_practico_1\funcionesglobales.h
+
+1696281339 c:\users\rgalarza\documents\github\laboratorio-ii-recursado\trabajo_practico_1\clasefecha.h
+
+1696282414 c:\users\rgalarza\documents\github\laboratorio-ii-recursado\trabajo_practico_1\clasejugador.h
+
+1696281339 c:\users\rgalarza\documents\github\laboratorio-ii-recursado\trabajo_practico_1\menujugadores.h
+
+1696288228 c:\users\rgalarza\documents\github\laboratorio-ii-recursado\trabajo_practico_1\clasedeporte.h
+
+1696288110 c:\users\rgalarza\documents\github\laboratorio-ii-recursado\trabajo_practico_1\menudeporte.h
+
+1698817058 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\menuprincipal.h
+
+1698967854 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\menuconfiguracion.h
+
+1700134521 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\reportes.h
+
+1698973341 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\claseequipo.h
+
+1698645260 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\menuequipo.h
+
+1699530969 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\clasetipodedeporte.h
+
+1699412484 d:\programacion\c++\laboratorio ii recursado\trabajo_practico_1\menutipodedeporte.h
+

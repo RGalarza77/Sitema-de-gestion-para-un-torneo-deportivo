@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="menuJugadores.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="416" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menuDeporte.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1554" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="funcionesGlobales.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="369" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="84" />
+		</Folding>
+	</File>
+	<File name="ClaseDeporte.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5453" topLine="47" />
+		</Cursor>
+		<Folding>
+			<Collapse line="41" />
+			<Collapse line="102" />
+			<Collapse line="128" />
+			<Collapse line="149" />
+			<Collapse line="172" />
+			<Collapse line="201" />
+			<Collapse line="218" />
+			<Collapse line="235" />
+			<Collapse line="252" />
+			<Collapse line="290" />
+			<Collapse line="324" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="532" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ClaseFecha.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2578" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="42" />
+			<Collapse line="49" />
+			<Collapse line="62" />
+			<Collapse line="66" />
+			<Collapse line="99" />
+		</Folding>
+	</File>
+	<File name="reportes.h" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4691" topLine="115" />
+		</Cursor>
+		<Folding>
+			<Collapse line="43" />
+			<Collapse line="90" />
+			<Collapse line="214" />
+		</Folding>
+	</File>
+	<File name="ClaseEquipo.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4787" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="35" />
+			<Collapse line="60" />
+			<Collapse line="69" />
+			<Collapse line="93" />
+			<Collapse line="115" />
+			<Collapse line="135" />
+			<Collapse line="148" />
+			<Collapse line="169" />
+			<Collapse line="233" />
+			<Collapse line="266" />
+		</Folding>
+	</File>
+	<File name="menuEquipo.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3473" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="menuPrincipal.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1053" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menuTipodeDeporte.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1323" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="ClaseTipodeDeporte.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="520" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="27" />
+			<Collapse line="51" />
+			<Collapse line="58" />
+			<Collapse line="82" />
+			<Collapse line="109" />
+			<Collapse line="123" />
+			<Collapse line="145" />
+			<Collapse line="166" />
+			<Collapse line="189" />
+			<Collapse line="216" />
+			<Collapse line="232" />
+			<Collapse line="270" />
+		</Folding>
+	</File>
+	<File name="menuConfiguracion.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="139" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ClaseJugador.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4743" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="198" />
+			<Collapse line="221" />
+			<Collapse line="245" />
+			<Collapse line="272" />
+			<Collapse line="301" />
+			<Collapse line="315" />
+			<Collapse line="334" />
+			<Collapse line="351" />
+			<Collapse line="402" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
